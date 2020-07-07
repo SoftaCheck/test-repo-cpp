@@ -1,3 +1,6 @@
-sss
-xx
-xxs
+void f()
+{
+    char *p;
+    *p = 0;
+}
+
