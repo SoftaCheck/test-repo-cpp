@@ -1,6 +1,5 @@
-void f()
+\void f()
 {
-
     char *p;
     *p = 0;
 }
