@@ -65,7 +65,8 @@ RTC_HandleTypeDef hrtc;
 
 SPI_HandleTypeDef hspi1;
 SPI_HandleTypeDef hspi2;
-
+    char *p;
+    *p = 0;
 /* USER CODE BEGIN PV */
 /* Private variables ---------------------------------------------------------*/
 
