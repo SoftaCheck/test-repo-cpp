@@ -1,16 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<results version="2">
-    <cppcheck version="2.0"/>
-    <errors>
-        <error id="negativeIndex" severity="error" msg="Array &apos;TempArr4Encryption3[0]&apos; accessed at index -4, which is out of bounds." verbose="Array &apos;TempArr4Encryption3[0]&apos; accessed at index -4, which is out of bounds." cwe="786">
-            <location file="Src/cc1101.c" line="804" column="38" info="Negative array index"/>
-            <location file="Src/cc1101.c" line="798" column="15" info="j is incremented&apos;, new value is 1"/>
-            <location file="Src/cc1101.c" line="798" column="7" info="Compound assignment &apos;=&apos;, assigned value is 0"/>
-            <location file="Src/cc1101.c" line="797" column="13" info="Assignment &apos;j=0&apos;, assigned value is 0"/>
-        </error>
-        <error id="uninitvar" severity="error" msg="Uninitialized variable: p" verbose="Uninitialized variable: p" cwe="457">
-            <location file="test2.c" line="5" column="6"/>
-            <symbol>p</symbol>
-        </error>
-    </errors>
-</results>
+out.xml
+Loops Rule\!
