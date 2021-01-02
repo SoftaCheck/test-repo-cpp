@@ -1,0 +1,1083 @@
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_crc.c:67:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal.c:52:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_crc_ex.c:52:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_i2s.c:138:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_comp_ex.c:53:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_dac_ex.c:56:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_lcd.c:89:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_pwr_ex.c:42:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_rng.c:58:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_cortex.c:96:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_irda.c:140:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_lptim.c:123:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_rcc_ex.c:42:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_tsc.c:111:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_smartcard.c:134:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_smbus.c:126:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_smartcard_ex.c:57:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_adc.c:257:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:127:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_dac.c:188:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_flash.c:169:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_dma.c:88:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_tim_ex.c:84:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_pcd_ex.c:42:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_comp.c:151:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_i2c_ex.c:66:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_pwr.c:43:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart.c:101:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_iwdg.c:110:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_rcc.c:80:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_adc_ex.c:52:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_utils.c:36:10: error: 'stm32l0xx_ll_rcc.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_ll_rcc.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_flash_ramfunc.c:61:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_i2c.c:242:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_firewall.c:64:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_pcd.c:73:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_rtc_ex.c:113:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_msp_template.c:48:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c:55:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_usart.c:84:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_rtc.c:112:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_flash_ex.c:67:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_tim.c:130:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_wwdg.c:125:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_spi.c:151:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_fast_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_f32.c:49:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_inverse_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_q15.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_q31.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_q31.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_q15.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_fast_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_f32.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_inverse_f64.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_q15.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_fast_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_fast_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_q31.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_q31.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_q31.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_bitreversal.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_q31.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_q15.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_q15.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_q15.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_q31.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_q15.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix8_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/CommonTables/arm_const_structs.c:43:10: error: 'arm_const_structs.h' file not found [clang-diagnostic-error]
+#include "arm_const_structs.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/CommonTables/arm_common_tables.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_opt_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_fast_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q7.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_fast_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_32x64_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_fast_q15.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_stereo_df2T_init_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_opt_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_q15.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_opt_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_init_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q15.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_opt_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_opt_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_stereo_df2T_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_q31.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q31.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_q31.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_f64.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_opt_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_fast_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_init_f64.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_opt_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_32x64_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_fast_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_opt_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_fast_q31.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_f32.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_opt_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q15.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_f32.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_float.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_float.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q7.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_float.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_sin_cos_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_sin_cos_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_f32.c:42:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sqrt_q15.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sqrt_q31.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_f32.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_f32.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_f32.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_f32.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_q15.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q31.c:41:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_q31.c:40:10: error: 'arm_math.h' file not found [clang-diagnostic-error]
+#include "arm_math.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Drivers/CMSIS/Device/ST/STM32L0xx/Source/Templates/system_stm32l0xx.c:64:10: error: 'stm32l0xx.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:1:16: warning: declaration of 'struct fred_t' will not be visible outside of this function [clang-diagnostic-visibility]
+void f1(struct fred_t *p)
+               ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:4:14: error: incomplete definition of type 'struct fred_t' [clang-diagnostic-error]
+    int x = p->x;
+             ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:1:16: note: forward declaration of 'struct fred_t'
+void f1(struct fred_t *p)
+               ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:6:9: warning: implicit declaration of function 'do_something' is invalid in C99 [clang-diagnostic-implicit-function-declaration]
+        do_something(x);
+        ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:11:21: error: use of undeclared identifier 'NULL' [clang-diagnostic-error]
+    const char *p = NULL;
+                    ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:12:21: error: use of undeclared identifier 'str' [clang-diagnostic-error]
+    for (int i = 0; str[i] != '\0'; i++)
+                    ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:14:13: error: use of undeclared identifier 'str' [clang-diagnostic-error]
+        if (str[i] == ' ')
+            ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:16:17: error: use of undeclared identifier 'str' [clang-diagnostic-error]
+            p = str + i;
+                ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:28:24: error: use of undeclared identifier 'NULL' [clang-diagnostic-error]
+    struct fred_t *p = NULL;
+                       ^
+/Users/hadar/Desktop/test_github/test-repo/clang.c:30:13: error: use of undeclared identifier 'fred1' [clang-diagnostic-error]
+        p = fred1;
+            ^
+/Users/hadar/Desktop/test_github/test-repo/test-clang.c:1:1: error: unknown type name 'test' [clang-diagnostic-error]
+test-clang.c
+^
+/Users/hadar/Desktop/test_github/test-repo/test-clang.c:1:5: error: expected identifier or '(' [clang-diagnostic-error]
+test-clang.c
+    ^
+/Users/hadar/Desktop/test_github/test-repo/test2.c:7:8: warning: Dereference of undefined pointer value [clang-analyzer-core.NullDereference]
+    *p = 0;
+       ^
+/Users/hadar/Desktop/test_github/test-repo/test2.c:3:5: note: 'p' declared without an initial value
+    char *p;
+    ^
+/Users/hadar/Desktop/test_github/test-repo/test2.c:7:8: note: Dereference of undefined pointer value
+    *p = 0;
+       ^
+/Users/hadar/Desktop/test_github/test-repo/Src/radio.c:24:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/parameters.c:28:10: error: 'parameters.h' file not found [clang-diagnostic-error]
+#include "parameters.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/common.c:25:10: error: 'common.h' file not found [clang-diagnostic-error]
+#include "common.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/modbus_impl.c:29:10: error: 'stdio.h' file not found [clang-diagnostic-error]
+#include "stdio.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/GW_BRProtocolsImp.c:24:10: error: 'GW_BRProtocolsImp.h' file not found [clang-diagnostic-error]
+#include "GW_BRProtocolsImp.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/spi.c:41:10: error: 'spi.h' file not found [clang-diagnostic-error]
+#include "spi.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/receive_interrupt.c:21:10: error: 'string.h' file not found [clang-diagnostic-error]
+#include <string.h>
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/rtc.c:24:10: error: 'rtc.h' file not found [clang-diagnostic-error]
+#include "rtc.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/stm32l0xx_hal_msp.c:40:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/cc1101.c:23:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/State_machine.c:1:10: error: 'State_machine.h' file not found [clang-diagnostic-error]
+#include "State_machine.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/gpio.c:24:10: error: 'gpio.h' file not found [clang-diagnostic-error]
+#include "gpio.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/Logger.c:26:10: error: 'logger.h' file not found [clang-diagnostic-error]
+#include "logger.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/W3_Flash.c:24:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/EEPROM.c:23:10: error: 'eeprom.h' file not found [clang-diagnostic-error]
+#include "eeprom.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/watchdog.c:23:10: error: 'watchdog.h' file not found [clang-diagnostic-error]
+#include "watchdog.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/main.c:40:10: error: 'main.h' file not found [clang-diagnostic-error]
+#include "main.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/PC_GW_ProtocolFunctions.c:25:10: error: 'PC_GW_ProtocolFunctions.h' file not found [clang-diagnostic-error]
+#include "PC_GW_ProtocolFunctions.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/modbus_driver.c:27:10: error: 'modbus_driver.h' file not found [clang-diagnostic-error]
+#include "modbus_driver.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/power_management.c:23:10: error: 'power_management.h' file not found [clang-diagnostic-error]
+#include "power_management.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/modbus_app_layer.c:26:10: error: 'modbus_app_layer.h' file not found [clang-diagnostic-error]
+#include "modbus_app_layer.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/usart.c:41:10: error: 'usart.h' file not found [clang-diagnostic-error]
+#include "usart.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/system_stm32l0xx.c:64:10: error: 'stm32l0xx.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/BIT.c:24:10: error: 'BIT.h' file not found [clang-diagnostic-error]
+#include "BIT.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/app_main.c:24:10: error: 'app_main.h' file not found [clang-diagnostic-error]
+#include "app_main.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/encryption.c:23:10: error: 'encryption.h' file not found [clang-diagnostic-error]
+#include "encryption.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/external_flash.c:24:10: error: 'external_flash.h' file not found [clang-diagnostic-error]
+#include "external_flash.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/stm32l0xx_it.c:34:10: error: 'stm32l0xx_hal.h' file not found [clang-diagnostic-error]
+#include "stm32l0xx_hal.h"
+         ^
+/Users/hadar/Desktop/test_github/test-repo/Src/bootloader_support.c:23:10: error: 'bootloader_support.h' file not found [clang-diagnostic-error]
+#include "bootloader_support.h"
+         ^
