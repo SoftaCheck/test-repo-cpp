@@ -1,2 +1,2 @@
-W3.ioc
+test-clang.c
 Loops Rule\!
