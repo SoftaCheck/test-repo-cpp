@@ -4,6 +4,7 @@ void f1(struct fred_t *p)
 
 
 
+
     int x = p->x;
     if (p)
         do_something(x);
