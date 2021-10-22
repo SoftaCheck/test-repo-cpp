@@ -1,5 +1,6 @@
 void f()
 {
+    /// whaaaa
     char *p;
 
 
