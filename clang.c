@@ -1,5 +1,6 @@
 void f1(struct fred_t *p)
 {
+
     // dereference p and then check if it's NULL
     int x = p->x;
     if (p)
